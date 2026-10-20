@@ -4,3 +4,4 @@ FRITES:
 - HUILE 
 -SEL
 PREPARATION :
+1. eplucher les pommes de terre 
