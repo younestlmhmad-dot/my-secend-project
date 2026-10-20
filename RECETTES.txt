@@ -1,0 +1,6 @@
+"mes recettes de cuisine" 
+FRITES:
+- 3 POMMES DE TERRE 
+- HUILE 
+-SEL
+PREPARATION :
