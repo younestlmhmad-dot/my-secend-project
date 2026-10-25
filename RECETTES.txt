@@ -5,3 +5,4 @@ FRITES:
 -SEL
 PREPARATION :
 1. eplucher les pommes de terre .
+2. couper les pommes de terre en frites
